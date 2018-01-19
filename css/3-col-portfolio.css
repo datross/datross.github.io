@@ -6,6 +6,7 @@
 
 body {
   padding-top: 54px;
+  font-family:  general;
 }
 
 @media (min-width: 992px) {
@@ -20,4 +21,17 @@ body {
 
 .pagination {
   margin-bottom: 30px;
+}
+
+@font-face {
+  font-family: general;
+  src: url("C059-BdIta.ttf");
+}
+
+.card-text {
+  font-family: sans-serif;
+}
+
+.full-img {
+  margin: 10px 0 10px 0;
 }
