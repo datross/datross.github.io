@@ -5,33 +5,52 @@
  */
 
 body {
-  padding-top: 54px;
-  font-family:  general;
+    padding-top: 54px;
+    font-family:  general;
 }
 
 @media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
+    body {
+        padding-top: 56px;
+    }
 }
 
 .portfolio-item {
-  margin-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 .pagination {
-  margin-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 @font-face {
-  font-family: general;
-  src: url("C059-BdIta.ttf");
+    font-family: general;
+    src: url("C059-BdIta.ttf");
 }
 
-.card-text {
-  font-family: sans-serif;
+.card-text, p {
+    font-family: sans-serif;
 }
 
 .full-img {
-  margin: 10px 0 10px 0;
+    width: 100%;
+    margin: 10px 0 10px 0;
+}
+
+h1 {
+    display: inline-block;
+    background-color: #Ff7f50;
+    color: #ffffff;
+    padding: 10px;
+    /* margin-left: 40px; */
+}
+
+footer {
+    margin-top: 10px;
+}
+
+#cv {
+    background-color: #F9C6Aa;
+    padding: 10px;
+    color: #404040;
 }
