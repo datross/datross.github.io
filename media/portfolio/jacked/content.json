@@ -1,0 +1,8 @@
+{
+    "thumbnail": "1.png",
+    "title": "Jacked",
+    "description": "Projet vidéo de séquence de titre d'un film imaginaire. Tout est réalisé en images de synthèse 3D.",
+    "content": [
+        { "type": "text", "content": "Jacked est une séquence de titre de film imaginaire. La totalité projet est en image de synthèse avec le logiciel Blender." }
+    ]
+}
